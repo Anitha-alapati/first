@@ -1,1 +1,23 @@
-this is my first git file.
+command in git:
+  git init -----to initalize git
+  git status------to view the files
+  git remote add origin <url>------to establish the commection
+  git status-----to status
+  git add * -----to add all the files
+  git status -----to view the added files
+  git commit -m " comment " -----to commit the files before pushing
+Generate SSH key and add 
+  git push origin master
+
+After editing:
+  git status
+  git commit -m "comment"
+  git push origin master
+
+Pull:
+  git clone<url>  ----- for first pull
+  git pull origin master -----after edited code pull
+ 
+    
+  
+   
